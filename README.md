@@ -9,12 +9,11 @@ Project Charter: SRC RECOVERS.ORG REBUILD
 Background: The original recovers.org platform was written almost entirely between 2012 and 2014. Since then, it has
 been used worldwide and we have learned a lot about how to make it better. Meanwhile, the code it was
 written in is outdated in many respects and inappropriate for many of the feature requests we’ve
-repeatedly received. Therefore, we intend to rebuild the platform from scratch, in a way that is scalable,
-open-source, and better equipped to integrate future needs, collaboration and compatibility.
+repeatedly received. Therefore, we intend to rebuild the platform from scratch, in a way that is scalable and better equipped to integrate future needs, collaboration and compatibility.
 
 Goals
 
-● To rebuild the recovers.org platform as an open-source project in order to maximize community
+● To rebuild the recovers.org platform as an open and flexible platform in order to maximize community
 (developers, end users, partner organizations) involvement.
 
 ● To incorporate multilingual capabilities in every aspect of the rebuild to meet the diverse
