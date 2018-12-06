@@ -1,5 +1,5 @@
 # Rebuild
-Recovers 2.0: open-sourced modernized version of original recovers.org platform
+Recovers 2.0: modernized version of original recovers.org platform
 
 
 19 November 2018
